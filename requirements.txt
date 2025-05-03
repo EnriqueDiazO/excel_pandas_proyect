@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+wordcloud
+openpyxl
+jupyter
+bibtexparser
+PyMuPDF
