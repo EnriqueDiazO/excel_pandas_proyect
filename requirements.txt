@@ -7,3 +7,6 @@ openpyxl
 jupyter
 bibtexparser
 PyMuPDF
+fitz
+frontend
+tools
