@@ -10,3 +10,4 @@ PyMuPDF
 fitz
 frontend
 tools
+virtualenv
